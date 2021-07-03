@@ -91,7 +91,7 @@ p {
 }
 
 .icon {
-    margin-left: 150px;
+    margin-left: 100px;
     margin-top: 150px;
 }
 
@@ -110,7 +110,7 @@ p {
 }
 
 .container-3 {
-    width: 250px;
+    width: 300px;
     height: 350px;
     background-color: rgb(11, 0, 15);
     display: flex;
@@ -146,7 +146,7 @@ h6 {
 
 #early-access {
     text-align: center;
-    padding: 10px 20px;
+    padding: 10px 10px;
     margin: auto;
     position: absolute;
 }

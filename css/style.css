@@ -91,7 +91,7 @@ p {
 }
 
 .icon {
-    margin-left: 100px;
+    margin-left: 120px;
     margin-top: 150px;
 }
 
@@ -147,12 +147,12 @@ h6 {
 #early-access {
     text-align: center;
     padding: 10px 10px;
-    margin: auto;
+    margin: auto 20px;
     position: absolute;
 }
 
 #quote {
-    margin: 50px 105px 25px 10px;
+    margin: 50px 50px 25px 50px;
     font-weight: lighter;
     font-size: small;
     position: absolute;
@@ -163,7 +163,7 @@ h6 {
     background-color: rgb(255, 255, 255);
     color: rgb(172, 172, 172);
     display: block;
-    margin: 150px auto 0 auto;
+    margin: 150px 75px 0 75px;
     height: 50px;
     width: 250px;
     border: none;
@@ -175,7 +175,7 @@ button {
     background-color: rgb(55, 145, 218);
     color: white;
     display: block;
-    margin: 20px auto 0 auto;
+    margin: 20px 75px 0 75px;
     height: 50px;
     width: 250px;
     border: none;
